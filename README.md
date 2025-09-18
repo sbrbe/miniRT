@@ -42,4 +42,4 @@ make
 Lancer le programme avec un fichier .rt :
 ```bash
 ./miniRT scenes/test.rt
-``
+```
